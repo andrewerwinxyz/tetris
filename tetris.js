@@ -41,7 +41,6 @@ var score = 0;
 var level = 1;
 var lines = 0;
 
-
 maincontext.drawImage(bg, 0, 0, 10, 20);
 document.addEventListener('keydown', kbcontrols);
 
